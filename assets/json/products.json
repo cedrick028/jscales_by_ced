@@ -1,0 +1,531 @@
+[
+  {
+    "productId":1,
+    "productName":"Universal LCG Chassis Frame Kit (Aluminum)",
+    "productPrice":200,
+    "productImage":"ch1.webp",
+    "productImageOptions": ["ch1.webp", "ch1_1.webp", "ch1_2.webp"],
+    "productDescription":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi magni blanditiis eveniet beatae eligendi commodi consequuntur soluta distinctio vitae a, asperiores sit adipisci magnam, deleniti, consequatur debitis quisquam sed eius!",
+    "productFeatures":"Made of aluminum, make the chassis more sturdy|CNC machined and black anodized|Screws can be fixed on the screw holes of the rails and don't need any nuts.|Come with multiple shock mounting points for better suspension tuning.|Change the layout of the car, and create stronger climbing ability.|Removable ESC Tray: Easily modify for other power systems or use the Double Decker Tray to change the layout.|Adjustable Tray Bracket: Two height settings prevent the ESC plug from being compressed in F150 pickup models.",
+    "productRatings":5,
+    "filter":{
+      "compatibility":"Traxxas TRX4m",
+      "scale":"1/18",
+      "material":"Filament",
+      "isChecked": false
+    },
+    "quantity":{
+      "quantity":3,
+      "selectedQuantity":1,
+      "totalPrice": 0
+    },
+    "category":"Chassis",
+    "isSale": true
+  },
+  {
+    "productId":2,
+    "productName":"Black Brass Front Bumper Mount Servo Stand",
+    "productPrice":100,
+    "productImage":"st1.webp",
+    "productImageOptions": ["st1.webp", "st1_1.webp", "st1_2.webp"],
+    "productDescription":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi magni blanditiis eveniet beatae eligendi commodi consequuntur soluta distinctio vitae a, asperiores sit adipisci magnam, deleniti, consequatur debitis quisquam sed eius!",
+    "productFeatures":"Fine workmanship and good quality|Replace the original front bumper base, and offer a stand for the servo|Lowering and shifting the center of gravity forward.",
+    "productRatings":4.9,
+    "filter":{
+      "compatibility":"Axial SCX10 II",
+      "scale":"1/10",
+      "material":"Filament",
+      "isChecked": false
+    },
+    "quantity":{
+      "quantity":5,
+      "selectedQuantity":1,
+      "totalPrice": 0
+    },
+    "category":"Steering",
+    "isSale": false
+  },
+  {
+    "productId":3,
+    "productName":"4pcs CNC Metal Shock Absorber Mount Adjust Height Angle Stand",
+    "productPrice":300,
+    "productImage":"su1.webp",
+    "productImageOptions": ["su1.webp", "su1_1.webp", "su1_2.webp"],
+    "productDescription":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi magni blanditiis eveniet beatae eligendi commodi consequuntur soluta distinctio vitae a, asperiores sit adipisci magnam, deleniti, consequatur debitis quisquam sed eius!",
+    "productFeatures":"Made of high quality metal|Easy to install and durable in use|It help to adjust the angle and height of the shock absorber",
+    "productRatings":4.8,
+    "filter":{
+      "compatibility":"Axial SCX10",
+      "scale":"1/10",
+      "material":"Filament",
+      "isChecked": false
+    },
+    "quantity":{
+      "quantity":5,
+      "selectedQuantity":1,
+      "totalPrice": 0
+    },
+    "category":"Suspension",
+    "isSale": true
+  },
+  {
+    "productId":4,
+    "productName":"Metal Trailer Tow Hook Accessories",
+    "productPrice":400,
+    "productImage":"ac1.webp",
+    "productImageOptions": ["ac1.webp", "ac1_1.webp"],
+    "productDescription":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi magni blanditiis eveniet beatae eligendi commodi consequuntur soluta distinctio vitae a, asperiores sit adipisci magnam, deleniti, consequatur debitis quisquam sed eius!",
+    "productFeatures":"Easy to install and durable|Made of high quality metal|Exquisite workmanship, simulation details|Specially designed for 1/10 RC Crawler",
+    "productRatings":4.6,
+    "filter":{
+      "compatibility":"Axial SCX10",
+      "scale":"1/10",
+      "material":"Filament",
+      "isChecked": false
+    },
+    "quantity":{
+      "quantity":4,
+      "selectedQuantity":1,
+      "totalPrice": 0
+    },
+    "category":"Accessories",
+    "isSale": false
+  },
+  {
+    "productId":5,
+    "productName":"Fat Viper 2204 Brushless Outrunner Motor",
+    "productPrice":130,
+    "productImage":"motor.webp",
+    "productImageOptions": ["motor.webp"],
+    "productDescription":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi magni blanditiis eveniet beatae eligendi commodi consequuntur soluta distinctio vitae a, asperiores sit adipisci magnam, deleniti, consequatur debitis quisquam sed eius!",
+    "productFeatures":"Smooth and linear at low speeds, powerful and aggressive at high speeds.|Runs more quietly than brushed systems, producing virtually no noise.|2204 Fat Viper Outrunner Motor will give your car a better driving performance.",
+    "productRatings":5,
+    "filter":{
+      "compatibility":"Traxxas TRX4m",
+      "scale":"1/18",
+      "material":"Filament",
+      "isChecked": false
+    },
+    "quantity":{
+      "quantity":0,
+      "selectedQuantity":0,
+      "totalPrice": 0
+    },
+    "category":"none",
+    "isSale": false
+  },
+  {
+    "productId":6,
+    "productName":"313/324mm Wheelbase LCG Carbon Fiber Chassis Kit Frame Girder",
+    "productPrice":310,
+    "productImage":"ch2.webp",
+    "productImageOptions": ["ch2.webp", "ch2_1.webp", "ch2_2.webp"],
+    "productDescription":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi magni blanditiis eveniet beatae eligendi commodi consequuntur soluta distinctio vitae a, asperiores sit adipisci magnam, deleniti, consequatur debitis quisquam sed eius!",
+    "productFeatures":"Rails are made of high-quality carbon fiber.|It adds many shock mounting points for better suspension tuning.|The 5° design allows for a lower center of gravity.|Comes with 313mm and 324mm wheelbase links for easy DIY and assembly|Compatible with TRX4 stock Axles, Transmission, Drive Shafts, Shocks|Change the layout of the car, create stronger climbing ability",
+    "productRatings":4.7,
+    "filter":{
+      "compatibility":"Traxxas TRX4",
+      "scale":"1/10",
+      "material":"Filament",
+      "isChecked": false
+    },
+    "quantity":{
+      "quantity":3,
+      "selectedQuantity":1,
+      "totalPrice": 0
+    },
+    "category":"Chassis",
+    "isSale": false
+  },
+  {
+    "productId":7,
+    "productName":"LCG Carbon Fiber Chassis Rail",
+    "productPrice":500,
+    "productImage":"ch3.webp",
+    "productImageOptions": ["ch3.webp", "ch3_1.webp", "ch3_2.webp"],
+    "productDescription":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi magni blanditiis eveniet beatae eligendi commodi consequuntur soluta distinctio vitae a, asperiores sit adipisci magnam, deleniti, consequatur debitis quisquam sed eius!",
+    "productFeatures":"Low centre of gravity design|Made of Light weight carbon fiber|Numerous shock mounting locations|Come with a battery plate, it allows to place the battery at the front of the car|More balanced weight distribution for improved stability",
+    "productRatings":4.9,
+    "filter":{
+      "compatibility":"Axial SCX10 Pro",
+      "scale":"1/10",
+      "material":"Filament",
+      "isChecked": false
+    },
+    "quantity":{
+      "quantity":3,
+      "selectedQuantity":1,
+      "totalPrice": 0
+    },
+    "category":"Chassis",
+    "isSale": false
+  },
+  {
+    "productId":8,
+    "productName":"Kangaroo Carbon Fiber Chassis Frame Kit",
+    "productPrice":280,
+    "productImage":"ch4.webp",
+    "productImageOptions": ["ch4.webp", "ch4_1.webp", "ch4_2.webp"],
+    "productDescription":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi magni blanditiis eveniet beatae eligendi commodi consequuntur soluta distinctio vitae a, asperiores sit adipisci magnam, deleniti, consequatur debitis quisquam sed eius!",
+    "productFeatures":"Kangaroo carbon fiber chassis frame kit|Super lightweight by using high-quality carbon fiber. It weighs in at around 21 grams in total.|2.5D structure design, better than other carbon frames.|This kit allows you to mount the shocks in different positions.",
+    "productRatings":4.5,
+    "filter":{
+      "compatibility":"Axial SCX24",
+      "scale":"1/24",
+      "material":"Filament",
+      "isChecked": false
+    },
+    "quantity":{
+      "quantity":3,
+      "selectedQuantity":1,
+      "totalPrice": 0
+    },
+    "category":"Chassis",
+    "isSale": false
+  },
+  {
+    "productId":9,
+    "productName":"65g Black Coating Brass Servo Mount",
+    "productPrice":190,
+    "productImage":"st2.webp",
+    "productImageOptions": ["st2.webp", "st2_1.webp", "st2_2.webp"],
+    "productDescription":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi magni blanditiis eveniet beatae eligendi commodi consequuntur soluta distinctio vitae a, asperiores sit adipisci magnam, deleniti, consequatur debitis quisquam sed eius!",
+    "productFeatures":"Precision CNC machined|Replace stock plastic servo mount|Made of brass, add weight and offer counterweight effect|The black hard coating with chamfered edges adds a bright touch to your car, to prevent corrosion also",
+    "productRatings":4.8,
+    "filter":{
+      "compatibility":"FMS Models",
+      "scale":"1/10",
+      "material":"Filament",
+      "isChecked": false
+    },
+    "quantity":{
+      "quantity":2,
+      "selectedQuantity":1,
+      "totalPrice": 0
+    },
+    "category":"Steering",
+    "isSale": true
+  },
+  {
+    "productId":10,
+    "productName":"25T Aluminum Transmission Shift Unloading Servo Arm",
+    "productPrice":110,
+    "productImage":"st3.webp",
+    "productImageOptions": ["st3.webp", "st3_1.webp", "st3_2.webp"],
+    "productDescription":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi magni blanditiis eveniet beatae eligendi commodi consequuntur soluta distinctio vitae a, asperiores sit adipisci magnam, deleniti, consequatur debitis quisquam sed eius!",
+    "productFeatures":"CNC machined and black anodized|High precision and fine workmanship|Segmented spring structure desgin educes the strain on the components and promotes longevity of servo",
+    "productRatings":4.8,
+    "filter":{
+      "compatibility":"Axial SCX10 Pro",
+      "scale":"1/10",
+      "material":"Filament",
+      "isChecked": false
+    },
+    "quantity":{
+      "quantity":5,
+      "selectedQuantity":1,
+      "totalPrice": 0
+    },
+    "category":"Steering",
+    "isSale": false
+  },
+  {
+    "productId":11,
+    "productName":"Hard Plastic Snorkel",
+    "productPrice":170,
+    "productImage":"ac2.webp",
+    "productImageOptions": ["ac2.webp", "ac2_1.webp", "ac2_2.webp"],
+    "productDescription":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi magni blanditiis eveniet beatae eligendi commodi consequuntur soluta distinctio vitae a, asperiores sit adipisci magnam, deleniti, consequatur debitis quisquam sed eius!",
+    "productFeatures":"Made of high quality hard plastic|Simulation details and good workmanship",
+    "productRatings":4.9,
+    "filter":{
+      "compatibility":"Axial SCX10",
+      "scale":"1/10",
+      "material":"Filament",
+      "isChecked": false
+    },
+    "quantity":{
+      "quantity":3,
+      "selectedQuantity":1,
+      "totalPrice": 0
+    },
+    "category":"Accessories",
+    "isSale": false
+  },
+  {
+    "productId":12,
+    "productName":"Black Metal Front Bumper",
+    "productPrice":320,
+    "productImage":"ac3.webp",
+    "productImageOptions": ["ac3.webp", "ac3_1.webp"],
+    "productDescription":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi magni blanditiis eveniet beatae eligendi commodi consequuntur soluta distinctio vitae a, asperiores sit adipisci magnam, deleniti, consequatur debitis quisquam sed eius!",
+    "productFeatures":"Made of high quality metal|Effectively protect the body shell|Provide place to install winch|Equipped with metal tow hooks and lights",
+    "productRatings":5,
+    "filter":{
+      "compatibility":"Axial SCX10 II",
+      "scale":"1/10",
+      "material":"Filament",
+      "isChecked": false
+    },
+    "quantity":{
+      "quantity":3,
+      "selectedQuantity":1,
+      "totalPrice": 0
+    },
+    "category":"Accessories",
+    "isSale": true
+  },
+  {
+    "productId":13,
+    "productName":"Metal Rear Bumper & Back Hitch Carrier Rack",
+    "productPrice":100,
+    "productImage":"ac4.webp",
+    "productImageOptions": ["ac4.webp", "ac4_1.webp", "ac4_2.webp"],
+    "productDescription":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi magni blanditiis eveniet beatae eligendi commodi consequuntur soluta distinctio vitae a, asperiores sit adipisci magnam, deleniti, consequatur debitis quisquam sed eius!",
+    "productFeatures":"Easy to install and durablescx|Made of high quality metal|Equipped with lights, effectively protect car shell",
+    "productRatings":4.9,
+    "filter":{
+      "compatibility":"Axial SCX10",
+      "scale":"1/10",
+      "material":"Filament",
+      "isChecked": false
+    },
+    "quantity":{
+      "quantity":1,
+      "selectedQuantity":1,
+      "totalPrice": 0
+    },
+    "category":"Accessories",
+    "isSale": true
+  },
+  {
+    "productId":14,
+    "productName":"4PCS Aluminum Front & Rear Shock Towers Mount",
+    "productPrice":120,
+    "productImage":"su2.webp",
+    "productImageOptions": ["su2.webp", "su2_1.webp", "su2_2.webp"],
+    "productDescription":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi magni blanditiis eveniet beatae eligendi commodi consequuntur soluta distinctio vitae a, asperiores sit adipisci magnam, deleniti, consequatur debitis quisquam sed eius!",
+    "productFeatures":"Made of high quality metal|Easy to install and durable in use|Directly replace TRX4 8216 plastic shock towers|9 shock mounting options for a possible 10mm increase in damper choice",
+    "productRatings":5,
+    "filter":{
+      "compatibility":"Traxxas TRX4",
+      "scale":"1/10",
+      "material":"Filament",
+      "isChecked": false
+    },
+    "quantity":{
+      "quantity":6,
+      "selectedQuantity":1,
+      "totalPrice": 0
+    },
+    "category":"Suspension",
+    "isSale": false
+  },
+  {
+    "productId":15,
+    "productName":"2PCS RC Car Rock Sliders Metal Pedal",
+    "productPrice":200,
+    "productImage":"ac5.webp",
+    "productImageOptions": ["ac5.webp", "ac5_1.webp", "ac5_2.webp"],
+    "productDescription":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi magni blanditiis eveniet beatae eligendi commodi consequuntur soluta distinctio vitae a, asperiores sit adipisci magnam, deleniti, consequatur debitis quisquam sed eius!",
+    "productFeatures":"100% brand new and durable|The width of pedal is adjustable",
+    "productRatings":5,
+    "filter":{
+      "compatibility":"Axial SCX10 II",
+      "scale":"1/10",
+      "material":"Filament",
+      "isChecked": false
+    },
+    "quantity":{
+      "quantity":5,
+      "selectedQuantity":1,
+      "totalPrice": 0
+    },
+    "category":"Accessories",
+    "isSale": false
+  },
+  {
+    "productId":16,
+    "productName":"Aluminum Gearbox Mount, Transmission Skid Plate",
+    "productPrice":140,
+    "productImage":"ch5.webp",
+    "productImageOptions": ["ch5.webp", "ch5_1.webp", "ch5_2.webp"],
+    "productDescription":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi magni blanditiis eveniet beatae eligendi commodi consequuntur soluta distinctio vitae a, asperiores sit adipisci magnam, deleniti, consequatur debitis quisquam sed eius!",
+    "productFeatures":"CNC machined billet aluminum, strong corrosion resistance|Replace original plastic parts, easy to install and durable|3 colors to choice, great looks|Better protect your transmission when the RC car is crawling",
+    "productRatings":4.5,
+    "filter":{
+      "compatibility":"Axial SCX24",
+      "scale":"1/24",
+      "material":"Filament",
+      "isChecked": false
+    },
+    "quantity":{
+      "quantity":5,
+      "selectedQuantity":1,
+      "totalPrice": 0
+    },
+    "category":"Chassis",
+    "isSale": true
+  },
+  {
+    "productId":17,
+    "productName":"Nylon Rock Buggy Roll Cage Body Shell Chassis Kit",
+    "productPrice":220,
+    "productImage":"bo1.webp",
+    "productImageOptions": ["bo1.webp", "bo1_1.webp", "bo1_2.webp"],
+    "productDescription":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi magni blanditiis eveniet beatae eligendi commodi consequuntur soluta distinctio vitae a, asperiores sit adipisci magnam, deleniti, consequatur debitis quisquam sed eius!",
+    "productFeatures":"Unassembled kit|No rails needed|Equipped with roof LED light|Tube roll cage|Nylon Injection Molding, very light and firm.|Compatible with SCX24 stock parts and INJORA SCX24 parts",
+    "productRatings":4.9,
+    "filter":{
+      "compatibility":"Axial SCX24",
+      "scale":"1/24",
+      "material":"Filament",
+      "isChecked": false
+    },
+    "quantity":{
+      "quantity":3,
+      "selectedQuantity":1,
+      "totalPrice": 0
+    },
+    "category":"Body",
+    "isSale": true
+  },
+  {
+    "productId":18,
+    "productName":"IR60 Pickup Hard Body with Bed Rack",
+    "productPrice":240,
+    "productImage":"bo2.webp",
+    "productImageOptions": ["bo2.webp", "bo2_1.webp"],
+    "productDescription":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi magni blanditiis eveniet beatae eligendi commodi consequuntur soluta distinctio vitae a, asperiores sit adipisci magnam, deleniti, consequatur debitis quisquam sed eius!",
+    "productFeatures":"ABS pickup hard body with rear bed rack.|Come with two styles of front grille.|Rubber rearview mirrors for better durability.|Four screws, endless possibilities. Attach the body shell to the chassis with just a twist. Easy as that!|Front Clipless Mounting design and Rear hook-and-loop hinge design. Its hook-and-loop hinge design lets you reach the chassis and battery quickly by simply swinging the body up.|Suit for your TRX4M Bronco and Defender chassis and you're ready for fun and adventure!",
+    "productRatings":4.9,
+    "filter":{
+      "compatibility":"Traxxas TRX4m",
+      "scale":"1/18",
+      "material":"Filament",
+      "isChecked": false
+    },
+    "quantity":{
+      "quantity":4,
+      "selectedQuantity":1,
+      "totalPrice": 0
+    },
+    "category":"Body",
+    "isSale": false
+  },
+  {
+    "productId":19,
+    "productName":"ABS Hard Top Body with Bumpers",
+    "productPrice":250,
+    "productImage":"bo3.webp",
+    "productImageOptions": ["bo3.webp", "bo3_1.webp", "bo3_2.webp"],
+    "productDescription":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi magni blanditiis eveniet beatae eligendi commodi consequuntur soluta distinctio vitae a, asperiores sit adipisci magnam, deleniti, consequatur debitis quisquam sed eius!",
+    "productFeatures":"Come with V2 grille|Constructed out of tough ABS plastic|Detailed clipless body for easy assembly|Includes grille, side mirrors, door handles, fender flares, windshield wipers, spare tire mount, front rear bumpers, clipless mounting|Just snap one onto your TRX4M Bronco and Defender chassis and you're ready for fun and adventure!",
+    "productRatings":4.9,
+    "filter":{
+      "compatibility":"Traxxas TRX4m",
+      "scale":"1/18",
+      "material":"Filament",
+      "isChecked": false
+    },
+    "quantity":{
+      "quantity":2,
+      "selectedQuantity":1,
+      "totalPrice": 0
+    },
+    "category":"Body",
+    "isSale": false
+  },
+  {
+    "productId":20,
+    "productName":"Nylon Rock Buggy Body with Metal Spider Panels",
+    "productPrice":240,
+    "productImage":"bo4.webp",
+    "productImageOptions": ["bo4.webp", "bo4_1.webp", "bo4_2.webp"],
+    "productDescription":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi magni blanditiis eveniet beatae eligendi commodi consequuntur soluta distinctio vitae a, asperiores sit adipisci magnam, deleniti, consequatur debitis quisquam sed eius!",
+    "productFeatures":"Unassembled kit|Nylon Injection Molding|Tube roll cage, very light and firm|Equipped with roof LED light",
+    "productRatings":4.9,
+    "filter":{
+      "compatibility":"Axial SCX24",
+      "scale":"1/24",
+      "material":"Filament",
+      "isChecked": false
+    },
+    "quantity":{
+      "quantity":3,
+      "selectedQuantity":1,
+      "totalPrice": 0
+    },
+    "category":"Body",
+    "isSale": true
+  },
+  {
+    "productId":21,
+    "productName":"313mm 12.3 inches Wheelbase Jeep Wrangler Pickup Body",
+    "productPrice":250,
+    "productImage":"bo5.webp",
+    "productImageOptions": ["bo5.webp", "bo5_1.webp", "bo5_2.webp"],
+    "productDescription":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi magni blanditiis eveniet beatae eligendi commodi consequuntur soluta distinctio vitae a, asperiores sit adipisci magnam, deleniti, consequatur debitis quisquam sed eius!",
+    "productFeatures":"100% brand new and high quality|Unassembled kit, enjoy assembly fun|Hard plastic convertible pickup body, durable in use|The door can open, simulated details of the interior",
+    "productRatings":4.8,
+    "filter":{
+      "compatibility":"Axial SCX10",
+      "scale":"1/10",
+      "material":"Filament",
+      "isChecked": false
+    },
+    "quantity":{
+      "quantity":4,
+      "selectedQuantity":1,
+      "totalPrice": 0
+    },
+    "category":"Body",
+    "isSale": false
+  },
+  {
+    "productId":22,
+    "productName":"25T Aluminum Servo Arm Horn",
+    "productPrice":65,
+    "productImage":"st4.webp",
+    "productImageOptions": ["st4.webp", "st4_1.webp", "st4_2.webp"],
+    "productDescription":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi magni blanditiis eveniet beatae eligendi commodi consequuntur soluta distinctio vitae a, asperiores sit adipisci magnam, deleniti, consequatur debitis quisquam sed eius!",
+    "productFeatures":"Black, Red Anodized|Made of high quality CNC Aluminum|Etched with the INJORA logo|Replace the stock plastic parts directly",
+    "productRatings":5,
+    "filter":{
+      "compatibility":"Traxxas TRX4m",
+      "scale":"1/18",
+      "material":"Filament",
+      "isChecked": false
+    },
+    "quantity":{
+      "quantity":5,
+      "selectedQuantity":1,
+      "totalPrice": 0
+    },
+    "category":"Steering",
+    "isSale": true
+  },
+  {
+    "productId":23,
+    "productName":"CNC Aluminum Adjustable Servo Mount",
+    "productPrice":90,
+    "productImage":"st5.webp",
+    "productImageOptions": ["st5.webp", "st5_1.webp", "st5_2.webp"],
+    "productDescription":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi magni blanditiis eveniet beatae eligendi commodi consequuntur soluta distinctio vitae a, asperiores sit adipisci magnam, deleniti, consequatur debitis quisquam sed eius!",
+    "productFeatures":"Stock SCX24 servo|Emax servo ES08MA|INJORA servo INS012G",
+    "productRatings":4.9,
+    "filter":{
+      "compatibility":"Axial SCX24",
+      "scale":"1/24",
+      "material":"Filament",
+      "isChecked": false
+    },
+    "quantity":{
+      "quantity":5,
+      "selectedQuantity":1,
+      "totalPrice": 0
+    },
+    "category":"Steering",
+    "isSale": false
+  }
+]
